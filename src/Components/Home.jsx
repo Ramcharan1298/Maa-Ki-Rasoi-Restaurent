@@ -79,7 +79,7 @@ useEffect(() => {
         </div>
       
         <div className="text-2xl sm:text-3xl md:text-4xl font-bold text-gray-900 mb-2 font-Oswald backdrop-blur-md px-2 sm:px-4 text-center">
-          We're fresher! we're tastier!
+          We're fresher! We're tastier!
         </div>
         <button
           aria-label="Scroll to content"
